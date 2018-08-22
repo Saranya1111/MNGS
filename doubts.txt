@@ -1,0 +1,13 @@
+doubts
+---------
+filemode
+fileacces
+
+how to set validation control for ddl and radiobutoon
+
+GET
+SET METHOD
+
+HASH TABLE
+
+ retrieving the data from the database server without refreshing a page.
